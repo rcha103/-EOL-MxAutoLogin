@@ -4,7 +4,7 @@
 | Name 	| Description 	|
 |--------------	|-----------------------	|
 | Author 	| Rionald Chancellor 	|
-| Company 	| Orange Leaf Consulting 	|
+| Company 	| Magnus Consulting Sdn Bhd 	|
 | Version 	| 1.0 	|
 | Package name 	| AutoLogin.mpk 	|
 
