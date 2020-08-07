@@ -1,15 +1,16 @@
-# MxAutoLogin
+# [EOL] MxAutoLogin
 
 
 | Name 	| Description 	|
 |--------------	|-----------------------	|
 | Author 	| Rionald Chancellor 	|
-| Company 	| Magnus Consulting Sdn Bhd 	|
 | Version 	| 1.0 	|
 | Package name 	| AutoLogin.mpk 	|
 
 ### Description
 AutoLogin is a module which enables your Mendix application to login users automatically. This is especially useful if you want to users to be logged in automatically after a new user is created.
+
+Update: I am no longer a Mendix developer as per 2020. Therefore, I won't be maintaining any of my work any longer (at least for now). You are free to fork this project and publish your own version. 
 
 ### Credits
 
